@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tomyk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tomyk\\.nuget\\packages"
+    ]
+  }
+}
