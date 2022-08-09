@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomyk\\source\\repos\\SportbetAPI\\SportbetAPI\\SportbetAPI.csproj",
+      "projectUniqueName": "D:\\Projects\\Sportbet\\SportbetAPI\\SportbetAPI\\SportbetAPI.csproj",
       "projectName": "SportbetAPI",
-      "projectPath": "C:\\Users\\tomyk\\source\\repos\\SportbetAPI\\SportbetAPI\\SportbetAPI.csproj",
+      "projectPath": "D:\\Projects\\Sportbet\\SportbetAPI\\SportbetAPI\\SportbetAPI.csproj",
       "packagesPath": "C:\\Users\\tomyk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomyk\\source\\repos\\SportbetAPI\\SportbetAPI\\obj\\",
+      "outputPath": "D:\\Projects\\Sportbet\\SportbetAPI\\SportbetAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tomyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
